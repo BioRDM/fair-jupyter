@@ -1,2 +1,2 @@
 # fair-jupyter
-Notebooks for fair-in-pracite training
+Jupyter Notebooks and data for fair-in-pracite training
